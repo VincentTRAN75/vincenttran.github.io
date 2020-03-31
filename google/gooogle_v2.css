@@ -1,0 +1,118 @@
+#header 
+  {
+    padding-right: 50px;    
+    margin: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        flex-direction: row;
+        justify-content: flex-end;
+    }
+
+    .text
+    {
+      padding-right: 6px; 
+      margin: 1px;
+    }
+
+    .gestes
+    {
+      margin: 10px;
+    }
+
+  .gmail
+  {
+      padding: 5px 10px;
+      background: white;
+      color: black;
+    }
+
+  .gmail:hover
+  {
+      color: grey;
+    }
+
+  .image
+  {
+    padding: 5px 10px;
+    background: white;
+    color: black;
+    }
+
+  .image:hover
+  {
+    color: grey;
+    }
+
+  .app
+  {
+    padding: 5px 10px;
+    background: white;
+    color: black;
+     }
+
+  .app:hover
+  {
+    color: grey;
+    }
+
+  
+
+  .eng {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .corona
+  {
+  display: flex;
+  justify-content: center;
+  }
+  
+  
+  #logo {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .footer-right {
+    border-top: solid 1px #e4e4e4;
+    display: inline;
+    color: #666666;
+    font-size: 17px;
+    padding: 13px;
+    float: right;
+    padding: -2500px;
+    overflow: auto;
+    justify-content: space-between;
+    position: relative;
+    top: 185px;
+    flex-wrap: nowrap;
+  }
+  
+  .content {
+    text-align: center;
+    padding-top: 40px;
+  }
+  
+  .content form {
+    display: inline-block;
+  }
+  
+  .searchBox {
+    border: 1px solid rgb(92, 92, 92);
+    padding: 7px;
+    width: 35em;
+    height: 1.8em;
+    border-radius: 20px;
+  }
+
+  #kei {
+    display: block;
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    border-radius: 50%;
+    height: 4%;
+    width: 2%;
+    background-color: blanchedalmond;
